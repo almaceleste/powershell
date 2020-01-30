@@ -1,4 +1,0 @@
-[submodule "sidcoversion"]
-	path = sidcoversion
-	url = https://github.com/almaceleste/sidcoversion.git
-	branch = master
