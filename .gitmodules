@@ -1,4 +1,0 @@
-[submodule "sidconversion"]
-	path = sidconversion
-	url = https://github.com/almaceleste/sidconversion.git
-	branch = master
