@@ -1,2 +1,2 @@
 * linguist-vendored
-sidconversion/* linguist-vendored=false
+sidconversion/*.ps*1 linguist-vendored=false
