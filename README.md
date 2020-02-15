@@ -2,7 +2,7 @@
 this is my repo of the PowerShell modules and scripts
 
 #### license  
-[![license](https://img.shields.io/github/license/almaceleste/xfce4-genmon-scripts.svg?longCache=true)](https://github.com/almaceleste/xfce4-genmon-scripts/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/almaceleste/powershell.svg?longCache=true)](https://github.com/almaceleste/powershell/blob/master/LICENSE)
 
 <!-- #### wiki -->
 
