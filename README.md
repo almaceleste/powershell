@@ -15,5 +15,6 @@ SidConversion module contains the cmdlets for conversion SID (security identifie
 * if you want to try this cmdlets or need to convert a SID once and do not want to install module, you could use the scripts `ConvertFrom-Sid.ps1` and `ConvertTo-Sid.ps1`, which are full-fledged separate copies of the same-named cmdlets
 
 ### support me
-[![Beerpay](https://beerpay.io/almaceleste/powershell/badge.svg?style=beer)](https://beerpay.io/almaceleste/powershell) [![Beerpay](https://beerpay.io/almaceleste/powershell/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/powershell?focus=wish)
+<!-- [![Beerpay](https://beerpay.io/almaceleste/powershell/badge.svg?style=beer)](https://beerpay.io/almaceleste/powershell) [![Beerpay](https://beerpay.io/almaceleste/powershell/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/powershell?focus=wish) -->
+[![Ko-fi](/assets/img/Ko-fi_logo_transparent.png)](https://ko-fi.com/almaceleste "bye me cofee")
 [![](https://img.shields.io/badge/Paypal-donate_me-blue.svg?longCache=true&logo=paypal)](https://www.paypal.me/almaceleste "paypal | donate me") 
